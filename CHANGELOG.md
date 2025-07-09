@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-23)
+## Unreleased (2025-07-09)
+
+<section class="features">
+
+### Features
+
+-   [`a0f761b`](https://github.com/stdlib-js/stdlib/commit/a0f761b72ab538e2a92f97a3ca6de7e53ed45004) - add support for accessor arrays and refactor `stats/base/nanstdevtk` [(#7589)](https://github.com/stdlib-js/stdlib/pull/7589)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#5670](https://github.com/stdlib-js/stdlib/issues/5670)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`a0f761b`](https://github.com/stdlib-js/stdlib/commit/a0f761b72ab538e2a92f97a3ca6de7e53ed45004) - **feat:** add support for accessor arrays and refactor `stats/base/nanstdevtk` [(#7589)](https://github.com/stdlib-js/stdlib/pull/7589) _(by Gururaj Gurram)_
 -   [`cfd273d`](https://github.com/stdlib-js/stdlib/commit/cfd273df8e26730ad7a331e87430272cbf91c10a) - **refactor:** update paths _(by Aayush Khanna)_
 
 </details>
@@ -24,9 +47,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Gururaj Gurram
 
 </section>
 
