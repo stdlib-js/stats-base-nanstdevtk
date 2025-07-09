@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`0ce3935`](https://github.com/stdlib-js/stdlib/commit/0ce393575bc9f92b32158f83cc47c02aec2445e8) - **refactor:** rename files and update paths _(by Athan Reines)_
 -   [`a0f761b`](https://github.com/stdlib-js/stdlib/commit/a0f761b72ab538e2a92f97a3ca6de7e53ed45004) - **feat:** add support for accessor arrays and refactor `stats/base/nanstdevtk` [(#7589)](https://github.com/stdlib-js/stdlib/pull/7589) _(by Gururaj Gurram)_
 -   [`cfd273d`](https://github.com/stdlib-js/stdlib/commit/cfd273df8e26730ad7a331e87430272cbf91c10a) - **refactor:** update paths _(by Aayush Khanna)_
 
@@ -47,9 +48,10 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
 -   Gururaj Gurram
 
 </section>
